@@ -9,26 +9,9 @@
   margin: 0 auto;
 }
 
-.header{
-  grid-area: h;
-  background-color: blue;
-}
-.header img{
-  width: 60px;
-}
 
-.nav{
-  grid-area: s;
-  background-color: aqua;
-  padding: 10px 0 10px 15px;
-}
 
-.nav a{
-  text-decoration: none;
-}
 
-.main{
-  grid-area: m;
-  background-color: blueviolet;
-}
+
+
 

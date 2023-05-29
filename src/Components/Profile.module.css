@@ -1,0 +1,9 @@
+.main{
+    grid-area: m;
+    background-color: blueviolet;
+    padding: 10px 0 10px 15px;
+  }
+
+.item{
+    color: gold
+}
